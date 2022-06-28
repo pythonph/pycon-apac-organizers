@@ -14,11 +14,17 @@
 .footer-credits {
   opacity: 60%;
   padding: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.footer-credits a, .footer-credits a:hover {
+  color: unset;
+  font-style: italic;
 }
 
 .footer-credits a {
-  color: unset;
-  font-style: italic;
+  text-decoration: none;
 }
 
 .country-item {
@@ -26,7 +32,7 @@
 }
 
 .footer-nav-item {
-  padding: 20px 13px 0px 0;
+  padding: 20px 20px 0px 0;
 }
 
 .footer-nav-item a {
@@ -91,4 +97,30 @@
   position: absolute;
   right: 4px;
   bottom: 4px;
+}
+
+.hearbeat {
+  animation: heartbeat 1s infinite;
+  opacity: revert !important;
+}
+
+@keyframes heartbeat {
+  0% {
+    transform: scale( .75 );
+  } 
+  20% {
+    transform: scale( 1 );
+  }
+  40%{
+    transform: scale( .75 );
+  }
+  60% {
+    transform: scale( 1 );
+  }
+  80% {
+    transform: scale( .75 );
+  }
+  100% {
+    transform: scale( .75 );
+  }
 }

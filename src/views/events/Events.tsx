@@ -137,8 +137,21 @@ export default function Events() {
               ))} 
             </div>
             <div className="nav-carousels mobile-off">
-              <span onClick={() => nextPrevSlide(currentSlide - 1)} title="Previous slide" className="nav-carousel prev" role="button"></span>
-              <span onClick={() => nextPrevSlide(currentSlide + 1)} title="Next slide" className="nav-carousel next" role="button"></span> 
+              <div 
+                onClick={() => nextPrevSlide(currentSlide - 1)} 
+                title="Previous slide" className="nav-carousel text-center" 
+                role="button"
+              >
+                &#10094;
+              </div>
+              <div 
+                onClick={() => nextPrevSlide(currentSlide + 1)} 
+                title="Next slide" 
+                className="nav-carousel text-center" 
+                role="button"
+              >
+                &#10095;
+              </div> 
             </div>
           </div>
         </div>

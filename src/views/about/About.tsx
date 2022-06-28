@@ -9,6 +9,7 @@ export default function About() {
           <div className="left-text-content">
             <div className="section-heading">
               <h1 className="text-white">About Us</h1>
+              <br />
             </div>
             <div className="medium-text text-white" style={{opacity: '60%'}}>
               Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, 
