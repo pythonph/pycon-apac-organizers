@@ -1,6 +1,6 @@
 .header-banner-area {
   background-image: url('../public/images/bg-img.jpeg');
-  background-size: contain;
-  background-repeat: round;
+  background-size: cover;
+  background-repeat: no-repeat;
   padding: 0 0 10px 0;
 }
