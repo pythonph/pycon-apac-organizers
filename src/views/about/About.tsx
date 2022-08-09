@@ -12,10 +12,10 @@ export default function About() {
               <br/>
             </div>
             <div className="medium-text text-white" style={{opacity: '60%'}}>
-              <strong>PyCon APAC</strong> is a <i>volunteer-run, not-for-profit</i> annual conference centered around the Python Programming language. The goal of the conference is to provide a venue where the Python programming language and surrounding technologies can be explored, discussed and exercised.
+              <strong>PyCon APAC</strong> is a <strong><i>volunteer-run, not-for-profit</i></strong> annual conference centered around the Python Programming language. The goal of the conference is to provide a venue where the Python programming language and surrounding technologies can be explored, discussed and exercised.
               <br/>
               <br/>
-              <strong>PyCon APAC</strong> is the regional counterpart of PyCon in Asia-Pacific. It is hosted in one (1) of the following countries every year: Singapore, Malaysia, Indonesia, Philippines, Thailand, South Korea, Hong Kong, Vietnam, Japan, Taiwan, India and Bangladesh.
+              <strong>PyCon APAC</strong> is the <strong>regional</strong> counterpart of PyCon in <strong>Asia-Pacific</strong>. It is hosted in one (1) of the following countries every year: Singapore, Malaysia, Indonesia, Philippines, Thailand, South Korea, Hong Kong, Vietnam, Japan, Taiwan, India and Bangladesh.
             </div>
            </div>
         </div>
