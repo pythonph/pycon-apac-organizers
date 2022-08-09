@@ -13,14 +13,8 @@ export default function CodeofConduct() {
         origin="bottom"
       >
         <div className="medium-text" style={{opacity: '60%'}}>
-                Nullam id dolor id nibh ultricies vehicula ut id elit. 
-                Praesent commodo cursus magna, vel scelerisque nisl consectetur et. 
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, 
-                consectetur adipiscing elit. Maecenas sed diam eget risus varius blandit sit amet non magna. 
-                Nullam quis risus eget urna mollis ornare vel eu leo. Aenean lacinia bibendum nulla sed consectetur. 
-                Aenean lacinia bibendum nulla sed consectetur. Cras mattis consectetur purus sit amet fermentum. 
-                Curabitur blandit tempus porttitor. Nullam id dolor id nibh ultricies vehicula ut id elit. 
-                Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at.
+                We value the participation of each member of the Python community and want all members to have an enjoyable and fulfilling experience.
+                Accordingly, all members are expected to show respect and courtesy to other members at all PyCon APAC events, whether officially sponsored by PyCon APAC or not.
         </div>
       </ScrollReveal>
       <br />
@@ -31,15 +25,7 @@ export default function CodeofConduct() {
         origin="bottom"
       >
         <div className="medium-text" style={{opacity: '60%'}}>
-                Nullam id dolor id nibh ultricies vehicula ut id elit. Praesent commodo cursus magna, 
-                vel scelerisque nisl consectetur et. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                Maecenas sed diam eget risus varius blandit sit amet non magna. 
-                Nullam quis risus eget urna mollis ornare vel eu leo. Aenean lacinia bibendum nulla sed consectetur. 
-                Aenean lacinia bibendum nulla sed consectetur.
-                Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. 
-                Nullam id dolor id nibh ultricies vehicula ut id elit. Nullam id dolor id nibh ultricies 
-                vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at.
+                To make clear what is expected, all delegates/attendees, speakers, exhibitors, organizers, and volunteers at any PyCon APAC event are required to conform to the following <a href="https://www.python.org/psf/conduct">Code of Conduct</a>.
         </div>
       </ScrollReveal>
     </div>
