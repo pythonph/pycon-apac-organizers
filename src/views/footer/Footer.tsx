@@ -55,21 +55,21 @@ export default function Footer() {
                                 Follow Us
                             </div>
                             <div className="d-flex footer-socials">
-                                <a className="footer-social-item" rel="nofollow" href="">
+{/*                                <a className="footer-social-item" rel="nofollow" href="">
                                     <img src="images/icons8-facebook.png" alt="Facebook" />
-                                </a>
-                                <a className="footer-social-item" rel="nofollow" href="">
+                                </a>*/}
+                                <a className="footer-social-item" rel="nofollow" href="https://github.com/pyconapac">
                                     <img src="images/icons8-github.png" alt="Github" />
                                 </a>
-                                <a className="footer-social-item" rel="nofollow" href="">
+                                <a className="footer-social-item" rel="nofollow" href="https://twitter.com/pyconapac">
                                     <img src="images/icons8-twitter_circled.png" alt="Twitter" />
                                 </a>
-                                <a className="footer-social-item" rel="nofollow" href="">
+{/*                                <a className="footer-social-item" rel="nofollow" href="">
                                     <img src="images/icons8-instagram.png" alt="Instagram" />
                                 </a>
                                 <a className="footer-social-item" rel="nofollow" href="">
                                     <img src="images/icons8-linkedin_circled.png" alt="Linkedin" />
-                                </a>
+                                </a>*/}
                             </div>
                             <div className="medium-text-bold text-white">
                                 Stay Connected
@@ -100,7 +100,7 @@ export default function Footer() {
             <div>Made with</div>
             <div className="hearbeat"> ❤️ </div> 
             <div>
-                <a href="https://codemickeycode.com/">Codemickeycode</a>, <a href="https://www.heyyeoh.com/">Heyyeoh</a> & <a>dnezle</a>
+                <a href="https://codemickeycode.com/">codemickeycode</a>, <a href="https://www.heyyeoh.com/">Heyyeoh</a> & <a>dnezle</a>
             </div>
         </div>
     </>
