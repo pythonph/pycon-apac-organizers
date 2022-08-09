@@ -12,15 +12,9 @@ export default function About() {
               <br />
             </div>
             <div className="medium-text text-white" style={{opacity: '60%'}}>
-              Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, 
-              vel scelerisque nisl consectetur et. Donec sed odio dui. Morbi leo risus, 
-              porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. 
-              Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, 
-              vel scelerisque nisl consectetur et. Donec sed odio dui. Morbi leo risus, 
-              porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. 
-              Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, 
-              vel scelerisque nisl consectetur et. Donec sed odio dui. Morbi leo risus, 
-              porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur.
+              PyCon APAC is a volunteer-run, not-for-profit annual conference centered around the Python Programming language.
+              The goal of the conference is to provide a venue where the Python programming language and surrounding technologies can be explored, discussed and exercised.
+              PyCon APAC is the regional counterpart of PyCon in Asia-Pacific. It is hosted in one (1) of the following countries every year: Singapore, Malaysia, Indonesia, Philippines, Thailand, South Korea, Hong Kong, Vietnam, Japan, Taiwan, India and Bangladesh.
             </div>
            </div>
         </div>

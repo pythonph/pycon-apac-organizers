@@ -6,11 +6,11 @@ export default function Preheader() {
     <>
       <div className="text-center">
         <div className="banner-first-section">
-          <h1 className="text-white">Awesome Python.</h1>
-          <h1 className="text-white">Awesome Community.</h1>
+          <h1 className="text-white">PyCon APAC Organizers</h1>
+          <h1 className="text-white"></h1>
           <div className="medium-text text-white" style={{opacity: '60%', margin: '15px 0 50px 0'}}>
-            <div>We arePycon APAC Organizers from Singapore, Malaysia, Indonesia, Philippines,</div>
-            <div>Thailand, South Korea, Hong Kong, Vietnam, Japan, Taiwan, India and Bangladesh.</div>
+            <div>We are a group of PyCon organizers in APAC.</div>
+            <div>Every year, we hold a regional counterpart of PyCon in Asia-Pacific and we call it PyCon APAC.</div>
           </div>
           <div className="d-flex justify-content-center">
             <button className="button-primary-lg">Learn More</button>
