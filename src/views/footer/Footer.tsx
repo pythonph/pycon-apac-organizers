@@ -33,7 +33,7 @@ export default function Footer() {
                                 <a href="#top" className="text-white mobile-off">Home</a>
                             </div>
                             <div className="footer-nav-item scroll-to-section">
-                               <a href="#about" className="text-white mobile-off">About Us</a> 
+                               <a href="#about" className="text-white mobile-off">About</a>
                             </div>
                             <div className="footer-nav-item scroll-to-section">
                                <a href="#what-we-do" className="text-white mobile-off">What We Do</a> 
