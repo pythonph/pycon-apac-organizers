@@ -10,13 +10,13 @@ export default function Events() {
       title: 'Pycon APAC 2022',
       badgeText: 'UPCOMING',
       badgeType: 'danger',
-      description: "Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna,vel scelerisque nisl consectetur et. Donec sed odio dui. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Vestibulum id ligula porta felis euismod semper.",
+      description: "The conference is held on multiple virtual platforms. All speeches are live streamed on YouTube while attendees are encouraged to join our Gather Town and Discord space. The Gather Town platform allows attendees to participate in our special events (Swag giveaway!) and meet with sponsors, speakers, and other Pythonistas!",
       info: [
         "2022 September 3-4",
         "Online on YouTube, Gather Town and Discord"
       ]
     },
-    {
+/*    {
       key: 2,
       img: 'images/event-slide-1.png',
       title: 'Pycon APAC 2022',
@@ -51,7 +51,7 @@ export default function Events() {
         "2022 September 1, 8:00AM - 5:00PM CST",
         "Taipei International Convention Center (TICC)"
       ]
-    },
+    },*/
   ]
 
   const setCurrentSlide = (data: any, idx: number):void => {
