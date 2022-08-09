@@ -10,7 +10,7 @@ export default function Footer() {
                     <div className="left-text-content">
                         <img className="footer-logo" src="images/logo.png" alt="Python APAC" />
                         <div className="small-text text-white" style={{opacity: '60%'}}>
-                            We arePycon APAC Organizers from Singapore, Malaysia, Indonesia, Philippines, 
+                            We are Pycon APAC Organizers from Singapore, Malaysia, Indonesia, Philippines,
                             Thailand, South Korea, Hong Kong, Vietnam, Japan, Taiwan, India and Bangladesh.
                         </div>
                         <br />
