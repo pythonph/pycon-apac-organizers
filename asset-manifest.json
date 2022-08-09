@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/pycon-apac-organizers/static/css/main.db915d67.css",
-    "main.js": "/pycon-apac-organizers/static/js/main.face689d.js",
+    "main.js": "/pycon-apac-organizers/static/js/main.649d63da.js",
     "static/js/787.fab559da.chunk.js": "/pycon-apac-organizers/static/js/787.fab559da.chunk.js",
     "static/media/bg-img.jpeg": "/pycon-apac-organizers/static/media/bg-img.7bcc255e96ff0abe0576.jpeg",
     "static/media/counts-bg.png": "/pycon-apac-organizers/static/media/counts-bg.06960b9eeba90b213241.png",
     "index.html": "/pycon-apac-organizers/index.html",
     "main.db915d67.css.map": "/pycon-apac-organizers/static/css/main.db915d67.css.map",
-    "main.face689d.js.map": "/pycon-apac-organizers/static/js/main.face689d.js.map",
+    "main.649d63da.js.map": "/pycon-apac-organizers/static/js/main.649d63da.js.map",
     "787.fab559da.chunk.js.map": "/pycon-apac-organizers/static/js/787.fab559da.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.db915d67.css",
-    "static/js/main.face689d.js"
+    "static/js/main.649d63da.js"
   ]
 }
