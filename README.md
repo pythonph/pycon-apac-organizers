@@ -1,3 +1,7 @@
+PyCon APAC Organizers Website
+==================
+NOTE: this project has been transferred to https://github.com/PyConAPAC/pycon-apac-org-website
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
